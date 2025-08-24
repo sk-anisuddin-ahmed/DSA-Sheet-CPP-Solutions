@@ -39,7 +39,7 @@ Problems are organised topic-wise for easy navigation and quick reference.
 
 ## 👨‍💻 About Me
 Hi, I'm **Sk Anisuddin Ahmed** 👋  
-- 💻 C, C++, Python Scripting | Firmware Developer | Embedded Systems | DSA | Problem-Solving  
+- 💻 C, C++, Python Scripting | Firmware Developer | DSA | Problem-Solving  
 - 🌱 Passionate about **coding, problem-solving, and embedded development**  
 - 🚀 Sharing my coding journey through this repository  
 
