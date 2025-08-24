@@ -30,8 +30,6 @@ Problems are organised topic-wise for easy navigation and quick reference.
 
 ---
 
-## 📂 Folder Structure
-
 ## 🛠️ How to Use
 1. Clone the repository:
    ```bash
