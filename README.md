@@ -19,13 +19,13 @@ Problems are organised topic-wise for easy navigation and quick reference.
 ## 🔗 Problem Links
 
 ### Bit Manipulation
-1. 
+1. [Find Position of Set Bit](./Bit Manipulation/Find_position_of_set_bit.cpp)
 
 ### Array
 1. 
 
 ### Linked List
-1. [Linked List Group Reverse.cpp](./LinkedList/Linked_List_Group_Reverse.cpp.cpp)
+1. [Linked List Group Reverse](./LinkedList/Linked_List_Group_Reverse.cpp.cpp)
 
 ---
 
