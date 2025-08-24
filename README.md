@@ -25,8 +25,7 @@ Problems are organised topic-wise for easy navigation and quick reference.
 1. 
 
 ### Linked List
-1. [Linked List Group Reverse.cpp](./LinkedList/Linked_List_Group_Reverse.cpp.cpp)  
-2. [Linkedlist Multiplication Addition](./LinkedList/Linkedlist_Multiplication_Addition.cpp)  
+1. [Linked List Group Reverse.cpp](./LinkedList/Linked_List_Group_Reverse.cpp.cpp)
 
 ---
 
