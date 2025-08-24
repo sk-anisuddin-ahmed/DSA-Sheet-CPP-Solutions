@@ -12,6 +12,7 @@ Problems are organised topic-wise for easy navigation and quick reference.
 - Bit Manipulation
 - Array
 - Linked List
+- More Adding
   
 ---
 
@@ -24,8 +25,8 @@ Problems are organised topic-wise for easy navigation and quick reference.
 1. 
 
 ### Linked List
-1. [Reverse a Linked List](./LinkedList/everse_linkedlist.cpp)  
-2. [Detect Loop in Linked List](./LinkedList/detect_loop.cpp)  
+1. [Linked List Group Reverse.cpp](./LinkedList/Linked_List_Group_Reverse.cpp.cpp)  
+2. [Linkedlist Multiplication Addition](./LinkedList/Linkedlist_Multiplication_Addition.cpp)  
 
 ---
 
