@@ -25,7 +25,7 @@ Problems are organised topic-wise for easy navigation and quick reference.
 1. 
 
 ### Linked List
-1. [Linked List Group Reverse](./Linked%20List/Linked_List_Group_Reverse.cpp.cpp)
+1. [Linked List Group Reverse](./Linked%20List/Linked_List_Group_Reverse.cpp)
 
 ---
 
