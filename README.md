@@ -20,10 +20,10 @@ Problems are organised topic-wise for easy navigation and quick reference.
 
 ## 🔗 Problem Links
 
-### Array
-1. [Merge Sort](./Array/Merge_Sort.cpp)
-2. [Print Anagrams Together](./Array/Print_Anagrams_Together.cpp)
-3. [Product Array Puzzle](./Array/Product_array_puzzle.cpp)
+### Arrays
+1. [Merge Sort](./Arrays/Merge_Sort.cpp)
+2. [Print Anagrams Together](./Arrays/Print_Anagrams_Together.cpp)
+3. [Product Array Puzzle](./Arrays/Product_array_puzzle.cpp)
 
 ### Bit Manipulation
 1. [Find Position of Set Bit](./Bit%20Manipulation/Find_position_of_set_bit.cpp)
@@ -56,9 +56,9 @@ Problems are organised topic-wise for easy navigation and quick reference.
 1. [Sort a Stack](./Stack/Sort_a_stack.cpp)
 
 ### Tree
-1. [Delete a Node from BST](./Stack/Delete_a_node_from_BST.cpp)
-2. [Insert a Node in a BST](./Stack/Insert_a_node_in_a_BST.cpp)
-3. [Minimum Element in BST](./Stack/Minimum_element_in_BST.cpp)
+1. [Delete a Node from BST](./Tree/Delete_a_node_from_BST.cpp)
+2. [Insert a Node in a BST](./Tree/Insert_a_node_in_a_BST.cpp)
+3. [Minimum Element in BST](./Tree/Minimum_element_in_BST.cpp)
 
 
 ---
