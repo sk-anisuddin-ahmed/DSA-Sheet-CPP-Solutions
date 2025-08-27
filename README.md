@@ -26,6 +26,7 @@ Problems are organised topic-wise for easy navigation and quick reference.
 
 ### Linked List
 1. [Linked List Group Reverse](./Linked%20List/Linked_List_Group_Reverse.cpp)
+2. [Linked Deletion and Reverse in Circular Linked List](./Linked%20List/Deletion_and_Reverse_in_Circular_Linked_List.cpp)
 
 ---
 
