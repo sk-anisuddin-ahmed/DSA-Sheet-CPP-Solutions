@@ -51,6 +51,7 @@ Problems are organised topic-wise for easy navigation and quick reference.
 18. [Rotate Doubly Linked List](./Linked%20List/Rotate_doubly_Linked_List.cpp)
 19. [Sort a Linked List of 0s, 1s and 2s](./Linked%20List/Sort_a_linked_list_of_0s,_1s_and_2s.cpp)
 20. [Split a Linked List Into Two Halves](./Linked%20List/Split_a_Linked_List_into_two_halves.cpp)
+21. [Reverse_Nodes_in_K_Group.cpp](./Reverse_Nodes_in_K_Group.cpp)
 
 ### Stack
 1. [Sort a Stack](./Stack/Sort_a_stack.cpp)
