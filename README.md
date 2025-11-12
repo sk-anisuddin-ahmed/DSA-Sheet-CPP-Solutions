@@ -67,7 +67,7 @@ Problems are organised topic-wise for easy navigation and quick reference.
 ## 🛠️ How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<username>/Love-Babbar-Sheet_DSA-Solutions.git
+   git clone https://github.com/sk-anisuddin-ahmed/DSA-Sheet-CPP-Solutions.git
 
 ---
 
